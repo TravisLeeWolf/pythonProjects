@@ -45,3 +45,6 @@ def main():
     print(f"The morse code converted text is:\n{converted_text}")
 
 main()
+
+# ⚪
+# ➖
